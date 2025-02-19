@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, My name is Dane and I'm an exploit developer from California.</h2>
+<h2 align="center">hey 👋! my name is dane, and i'm an exploit developer from california</h2>
 
 ###
 
