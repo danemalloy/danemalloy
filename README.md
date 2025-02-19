@@ -1,4 +1,4 @@
-<h2 align="center">hey 👋! my name is Dane, and i'm an game security developer from california</h2>
+<h2 align="center">hey 👋! my name is Dane, and i'm an game security developer from California</h2>
 
 ###
 
