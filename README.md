@@ -1,5 +1,7 @@
 <h2 align="center">Hey 👋! I'm Dane</h2>
 
+<p align="center">I'm a developer who likes to identify and exploit video game vulnerabilities (ethically of course)</p>
+
 ###
 
 <div align="center">
