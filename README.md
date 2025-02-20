@@ -1,7 +1,3 @@
-# ⚙️ Bio:
-I'm a white hat who likes to identify and exploit video game vulnerabilities
-
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dane_malloy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dane-malloy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damalloy2@gmail.com) 
 
