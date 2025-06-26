@@ -1,6 +1,6 @@
 ## Quant Trader in CA
 
-## Socials:
+## Contact Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/HcCd6NDcu2) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tpseeker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damalloy2@gmail.com) 
 
 ## Tech Stack:
