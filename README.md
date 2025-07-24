@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### Game developer based in California
 
 # Contact Me:
